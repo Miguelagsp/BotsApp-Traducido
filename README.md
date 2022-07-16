@@ -4,63 +4,63 @@
 
 
 # 💠[BotsApp](https://mybotsapp.com/)💠
-> Your Personal Assisstant, on WhatsApp!
+> Tu asistente personal, ¡en WhatsApp!
 ---
-![GitHub top language](https://img.shields.io/github/languages/top/BotsAppOfficial/BotsApp) [![GitHub release](https://img.shields.io/github/release/BotsAppOfficial/BotsApp.svg)](https://github.com/bkimminich/juice-shop/releases/latest)
- ![GitHub contributors](https://img.shields.io/github/contributors/BotsAppOfficial/BotsApp) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/BotsAppOfficial/BotsApp) ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/BotsAppOfficial/BotsApp) ![GitHub Repo stars](https://img.shields.io/github/stars/BotsAppOfficial/BotsApp?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/BotsAppOfficial/BotsApp)
+![GitHub top language](https://img.shields.io/github/languages/top/BotsAppOfficial/BotsApp) [![Publicación en GitHub](https://img.shields.io/github/release/BotsAppOfficial/BotsApp.svg)](https://github.com/bkimminich/juice-shop/releases/latest)
+ ![Colaboradores de GitHub](https://img.shields.io/github/contributors/BotsAppOfficial/BotsApp) ![Pull requests cerradas en GitHub](https://img.shields.io/github/issues-pr-closed/BotsAppOfficial/BotsApp) ![Solicitudes de extracción de GitHub](https://img.shields.io/github/issues-pr-raw/BotsAppOfficial/BotsApp) ![GitHub Repo stars](https://img.shields.io/github/stars/BotsAppOfficial/BotsApp?style=social) ![Tamaño del repositorio de GitHub](https://img.shields.io/github/repo-size/BotsAppOfficial/BotsApp)
  
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/princemendiratta/botsapp?style=flat-square&label=Docker+Pulls) ![Docker Image Size](https://img.shields.io/docker/image-size/princemendiratta/botsapp?style=flat-square&label=Docker+Image+Size)
 
-BotsApp is an optimized and easy-to-use WhatsApp UserBot written in Node.js.
+BotsApp es un UserBot de WhatsApp optimizado y fácil de usar escrito en Node.js.
 
-Utilize your personal chat assistant/group manager to make the most out of WhatsApp.   
+Utiliza tu asistente personal de chat/gestor de grupos para sacar el máximo partido a WhatsApp. 
 
 
 
-## Documentation
+## Documentación
 
-[Documentation Link](https://mybotsapp.com/documentation)
+[Enlace a la documentación](https://mybotsapp.com/documentation)
 
 
 ## Tutorial
 
-Here's a tutorial to set up BotsApp on your own account in *less than 3 minutes.* For now, the Multi Device Bot can only be used locally, the tutorial for which is attached below.
+Aquí tienes un tutorial para configurar BotsApp en tu propia cuenta en *menos de 3 minutos.* Por ahora, el Bot Multidispositivo sólo puede usarse localmente, cuyo tutorial se adjunta a continuación.
 
-[![How to deploy](https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube)](https://www.youtube.com/watch?v=tGrjEZ3roY0&ab_channel=BotsApp)
+[![Cómo desplegar](https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube)](https://www.youtube.com/watch?v=tGrjEZ3roY0&ab_channel=BotsApp)
 
-[![Multi Device](https://img.shields.io/badge/Host%20Multi%20Device%20bot%20on-Windows-red.svg?logo=Youtube)](https://youtu.be/NZy4sZqncjg&ab_channel=BotsApp)
+[![Dispositivo múltiple](https://img.shields.io/badge/Host%20Multi%20Device%20bot%20on-Windows-red.svg?logo=Youtube)](https://youtu.be/NZy4sZqncjg&ab_channel=BotsApp)
 
 
-## Deployment
+## Despliegue
 
-<b>Only local deployment is working for now!</b>
+<b>Por ahora sólo funciona el despliegue local.</b>
 
-### Easiest Way
+### La manera más fácil
 
-You can deploy BotsApp in minimal time without any prior knowledge using this method.
+Puedes desplegar BotsApp en un tiempo mínimo y sin ningún conocimiento previo utilizando este método.
 
-1. Head over to BotsApp's [Official website](https://mybotsapp.com/) and create an account on heroku using your email ID.
-2. Once logged in, click on the "Deploy BotsApp" button in the sidebar.
-3. Scan the QR code shown using your WhatsApp account (3 dots on top right corner -> Linked devices -> LINK A DEVICE). Click on the 'Continue'      button once done.
-4. Once the bot is linked to your account, you will come across a form which can be used to manage settings/permissions of BotsApp. If required,    change the form fields. Then, click on the submit button.
-5. Wait for 1-3 minutes for the bot to start. This is a one time process. Try using the '.alive' command in any of your chats to verify whether    your bot has been deployed succesfully.
+1. Dirígete al [sitio web oficial] de BotsApp (https://mybotsapp.com/) y crea una cuenta en heroku utilizando tu ID de correo electrónico.
+2. Una vez iniciada la sesión, haz clic en el botón "Desplegar BotsApp" en la barra lateral.
+3. Escanea el código QR que se muestra con tu cuenta de WhatsApp (3 puntos en la esquina superior derecha -> Dispositivos vinculados -> ENLAZAR UN DISPOSITIVO). Pulsa el botón 'Continuar' una vez hecho.
+4. Una vez que el bot esté vinculado a tu cuenta, te encontrarás con un formulario que se puede utilizar para gestionar los ajustes/permisos de BotsApp. Si es necesario, cambia los campos del formulario. A continuación, haz clic en el botón de envío.
+5. Espere de 1 a 3 minutos para que el bot se inicie. Este es un proceso único. Intenta utilizar el comando '.alive' en cualquiera de tus chats para verificar si tu bot se ha desplegado con éxito.
 
-Voila! You have deployed your bot in 5 easy steps. Once the bot has started successfully, you'll see a integration message on your whatsapp account.
+Ya está. Has desplegado tu bot en 5 sencillos pasos. Una vez que el bot haya arrancado con éxito, verás un mensaje de integración en tu cuenta de whatsapp.
 
-### Manually on Heroku
+### Manualmente en Heroku
 
-<b>Deployment to heroku using the button is not working for now!</b>
+<b>¡El despliegue a heroku usando el botón no está funcionando por ahora!</b>
 
-You can deploy the bot the heroku yourself using the button below!
+¡Puedes desplegar el bot el heroku tú mismo usando el botón de abajo!
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBotsAppOfficial%2FBotsApp%2Ftree%2Fmain&template=https%3A%2F%2Fgithub.com%2FBotsAppOfficial%2FBotsApp%2Ftree%2Fmainhttps://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBotsAppOfficial%2FBotsApp%2Ftree%2Fmain&template=https%3A%2F%2Fgithub.com%2FBotsAppOfficial%2FBotsApp%2Ftree%2Fmain)
+[![Despliegue en Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBotsAppOfficial%2FBotsApp%2Ftree%2Fmain&template=https%3A%2F%2Fgithub.com%2FBotsAppOfficial%2FBotsApp%2Ftree%2Fmainhttps://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBotsAppOfficial%2FBotsApp%2Ftree%2Fmain&template=https%3A%2F%2Fgithub.com%2FBotsAppOfficial%2FBotsApp%2Ftree%2Fmain)
 
-### Using Docker locally
+### Usar Docker localmente
 
-To follow this method, you will need to have docker installed on your machine and have some experience using docker.
+Para seguir este método, necesitarás tener docker instalado en tu máquina y tener algo de experiencia usando docker.
 
-To host the bot on your own device using docker, follow the following steps on your terminal / command prompt -
+Para alojar el bot en tu propio dispositivo usando docker, sigue los siguientes pasos en tu terminal / command prompt -
 
 ```bash
 wget -O BotsApp.tar.gz https://github.com/BotsAppOfficial/BotsApp/archive/refs/tags/v2.0.0-beta.tar.gz
@@ -70,13 +70,13 @@ docker build -t botsapp .
 docker run --rm --name botsapp botsapp
 ```
 
-This will create a container running BotsApp. You'll have to scan the QR at least once.
+Esto creará un contenedor que ejecute BotsApp. Tendrás que escanear el QR al menos una vez.
 
-### The GNU/Linux Legacy Way
+### El camino del legado de GNU/Linux
 
-To use this method, you will need ffmpeg, nodejs, npm installed on your device.
+Para usar este método, necesitarás ffmpeg, nodejs, npm instalados en tu dispositivo.
 
-To run the bot on your device manually, you can use the following commands -
+Para ejecutar el bot en su dispositivo manualmente, puede utilizar los siguientes comandos -
 
 ```bash
 git clone https://github.com/BotsAppOfficial/BotsApp.git
@@ -85,26 +85,26 @@ yarn
 npm start
 ```
 
-## Scan QR Code again
-If you're having issues when running locally it is recommended to scan the code again. To get the QR code again, follow these commands -
+## Volver a escanear el código QR
+Si tiene problemas al ejecutar localmente, se recomienda escanear el código de nuevo. Para obtener el código QR de nuevo, siga estos comandos -
 ```
 rm -rf BotsApp.db session.data.json
 npm start
 ```
 
-## Support and Discussion groups
+## Grupos de apoyo y debate
 
-Feel free to post your queries or concerns on any of the discussion forums mentioned below:
+No dude en publicar sus preguntas o dudas en cualquiera de los foros de debate que se mencionan a continuación:
 
-[![Join WhatsApp Group](https://img.shields.io/badge/Join-WhatsApp%20Group-bl.svg?logo=WhatsApp)](https://chat.whatsapp.com/GPEHkFlspzOKpSBTsYx7Wt)
+[![Únase al grupo de WhatsApp](https://img.shields.io/badge/Join-WhatsApp%20Group-bl.svg?logo=WhatsApp)](https://chat.whatsapp.com/GPEHkFlspzOKpSBTsYx7Wt)
 
-[![Join Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=Telegram)](https://t.me/BotsAppChat)
+[![Únete al grupo de Telegram](https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=Telegram)](https://t.me/BotsAppChat)
 
-[![Join Telegram Channel](https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram)](https://t.me/BotsAppOfficial)
+[![Únase al canal de Telegram](https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram)](https://t.me/BotsAppOfficial)
 
 
 
-## Contributors
+## Contribuidores
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -127,7 +127,7 @@ Feel free to post your queries or concerns on any of the discussion forums menti
 
 
 
-## Inspiration
+## Inspiración
 
 - Baileys Library
 
@@ -135,10 +135,10 @@ Feel free to post your queries or concerns on any of the discussion forums menti
 
 - [X-tra-Telegram](https://github.com/Prince-Mendiratta/X-tra-Telegram)
 
-## Copyright & License
+## Derechos de autor y licencia
 - Copyright (C) 2021 - 2022 by [BotsAppOfficial](https://github.com/BotsAppOfficial)
 
-- Licensed under the terms by [GNU GENERAL PUBLIC LICENSE](https://github.com/BotsAppOfficial/BotsApp/blob/main/LICENSE)
+- Con licencia en los términos de [GNU GENERAL PUBLIC LICENSE](https://github.com/BotsAppOfficial/BotsApp/blob/main/LICENSE)
 
 ## Legal
-This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries. This is an independent and unofficial software. Use at your own risk.
+Este código no está de ninguna manera afiliado, autorizado, mantenido, patrocinado o respaldado por WhatsApp o cualquiera de sus filiales o subsidiarias. Se trata de un software independiente y no oficial. Utilícelo bajo su propia responsabilidad.
